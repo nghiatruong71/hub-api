@@ -6,22 +6,9 @@ export enum StaticProxyType {
 }
 
 export const StaticProxyTypeMapping: Record<string, string> = {
-    "2b1701e2-f6d4-4a29-82f0-7dcb0c820f53": "Viettel",
-    "90438f46-835c-4e24-be9f-6564760d3490": "Viettel",
-    "8ada707f-50a6-4094-a273-a4e938353ead": "Viettel",
-    "b34c3353-c41f-42fb-9ede-ce27b32cbc42": "Viettel",
-    "0467677a-7ce0-4411-8cf3-330f8b857855": "FPT",
-    "3c015121-6f5b-4c1b-9abe-4c18362dedd2": "FPT",
-    "cac02a2b-8ef5-4052-ae7e-45bbe0ef5e23": "FPT",
-    "238c3e13-a4df-41af-b760-aa70a63c0fb1": "FPT",
-    "c238ce00-9123-4428-8990-46eee8e3d2ff": "VNPT",
-    "5acc02b2-c068-4d70-9b3c-1af5bcbdb688": "VNPT",
-    "aa8884d8-1592-4ff3-bb16-7f2e752dce9e": "US",
-    "fb73eaf1-77aa-44eb-8a14-b0bd8fadacfc": "US",
-    "55ad9b89-aaa9-48a1-a450-aa87f902e9de": "US",
-    "a46038ad-279f-46e1-a33e-1f0338ffbdc4": "US",
-    "bd9bcbab-0403-4806-bc31-4a809cfddb56": "DatacenterC",
-    "58c3ee1d-1f9c-4f33-b46f-ac8a2e3dc907": "DatacenterC" 
+    "83f2deb8-f585-4bec-bc44-c0e50cffaa1c": "Viettel",
+    "8e4dc6e3-cc44-4118-833d-13be1252d8bd": "FPT",
+    "942b8db4-5600-48b1-adb2-87b77ce68a91": "VNPT"
 };
 
 export const RotatingProxyTypeMapping: Record<string, string> = {
